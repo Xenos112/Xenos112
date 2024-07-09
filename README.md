@@ -1,6 +1,9 @@
 # Xenos The Stupid
 
 **`FrontEnd Web Developer`**
+
+  <img src="https://avatars.githubusercontent.com/u/123704726?v=4" style='width:250px;height:250px;border-radius:99999px;' />
+  
   ## Experiences
   
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style='width:50px;height:50px;border-radius:3px;padding-right:10px;' />
