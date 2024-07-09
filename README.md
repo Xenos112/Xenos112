@@ -2,7 +2,7 @@
 
 **`FrontEnd Web Developer`**
 
-  <img src="https://avatars.githubusercontent.com/u/123704726?v=4" style='width:250px;height:250px;border-radius:99999px;' />
+  <img src="https://avatars.githubusercontent.com/u/123704726?v=4" style='width:250px;height:250px;' />
   
   ## Experiences
   
@@ -14,4 +14,5 @@
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style='width:50px;height:50px;border-radius:3px'   />
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style='width:50px;height:50px;border-radius:3px' />
   <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style='width:50px;height:50px;border-radius:3px' />
-  <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style='width:50px;height:50px;border-radius:3px' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style='width:50px;height:50px;border-radius:3px' />
+
