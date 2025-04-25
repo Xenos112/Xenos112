@@ -1,4 +1,4 @@
-# Xenos The Stupid
+# Xenos
 
 **`FrontEnd Web Developer`**
 
