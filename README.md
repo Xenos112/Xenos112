@@ -13,7 +13,7 @@ Frontend developer passionate about creating beautiful, user-friendly web applic
 - 🎨 **Specializing in** React, Next.js, and modern CSS
 - 🌱 **Expanding my skills in** backend technologies
 - 💬 **Ask me about** React, Next.js, TypeScript, or UI/UX
-- 📫 **Reach me at** [my email](mailto: bettaharabdelmadjid@gmail.com)
+- 📫 **Reach me at** [my email](mailto:bettaharabdelmadjid@gmail.com)
 
 ---
 
