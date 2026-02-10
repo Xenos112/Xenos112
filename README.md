@@ -14,7 +14,7 @@ I'm a frontend developer passionate about crafting elegant, performant web appli
 - 🛠️ **Expertise in** React, Next.js, TypeScript & modern CSS
 - 🌱 **Learning** backend technologies & system design
 - 💡 **Interested in** UI/UX, performance optimization, and developer tools
-- 📧 **Contact** [bettaharabdelmadjid@gmail.com](mailto:bettaharabdelmadjid@gmail.com)
+- 📧 **Contact** [email](mailto:bettaharabdelmadjid@gmail.com)
 
 ---
 
