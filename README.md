@@ -1,97 +1,66 @@
-# Hi, I'm Xenos 👋
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Specialist;Building+Beautiful+Web+Experiences)](https://git.io/typing-svg)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,3&height=250&section=header&text=Xenos&fontSize=80&fontAlignY=30&animation=twinkling&fontColor=fff" />
 </div>
 
-## 👨‍💻 About Me
-
-I'm a frontend developer passionate about crafting elegant, performant web applications with modern technologies. Currently exploring full-stack development and seeking opportunities to create impactful digital experiences.
-
-- 🎯 **Open to** frontend developer positions
-- 🛠️ **Expertise in** React, Next.js, TypeScript & modern CSS
-- 🌱 **Learning** backend technologies & system design
-- 💡 **Interested in** UI/UX, performance optimization, and developer tools
-- 📧 **Contact** [email](mailto:bettaharabdelmadjid@gmail.com)
-
----
-
-## 🛠️ Tech Stack
-
-```typescript
-const techStack = {
-  frontend: ["React", "Next.js", "TypeScript", "JavaScript"],
-  styling: ["Tailwind CSS", "CSS3", "HTML5"],
-  backend: ["Go", "Express.js", "Gin"],
-  database: ["PostgreSQL"],
-  tools: ["Git", "GitHub", "Linux"]
-};
-```
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 [use-reacty](https://github.com/Xenos112/use-reacty)
-
-Minimal, lightweight React hooks library inspired by VueUse
-
-**Tech:** React · TypeScript · Vitest
-
-</td>
-<td width="50%">
-
-### 🌐 [Vertex](https://github.com/Xenos112/vertex_app)
-
-Social media platform designed for communities
-
-**Tech:** Next.js · Go · PostgreSQL · Tailwind
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Xenos112&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Xenos112&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Xenos112&theme=github-compact&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=58A6FF" />
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bettaharabdelmadjid@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xenos112)
+<p align="center">
+  <a href="https://ahmed-bet-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/Xenos112">
+    <img src="https://img.shields.io/badge/GitHub-1B1F23?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  </a>
+</p>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Xenos112&color=3B82F6&style=flat-square)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=800&color=3B82F6&center=true&vCenter=true&width=480&lines=Freelance+Frontend+Developer;React+%26+Next.js+Specialist;Crafting+Modern+Web+Experiences" />
+</p>
 
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Xenos112?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?color=3B82F6&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FXenos112&style=flat-square&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/Xenos112?tab=followers">
+    <img src="https://img.shields.io/badge/dynamic/json?color=3B82F6&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FXenos112&style=flat-square&labelColor=0D1117" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Xenos112&color=3B82F6&style=flat-square&label=Views" />
+</p>
+
+---
+---
+
+<p align="center">
+  <a href="https://github.com/Xenos112">
+    <img src="https://github-readme-stats.vercel.app/api?username=Xenos112&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%" />
+  </a>
+  <a href="https://github.com/Xenos112">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xenos112&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="49%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenos112&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xenos112&theme=github-compact&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=58A6FF&area=true&area_color=3B82F6" width="95%" />
+</p>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xenos112/Xenos112/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xenos112/Xenos112/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Xenos112/Xenos112/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,3&height=150&section=footer" />
 </div>
