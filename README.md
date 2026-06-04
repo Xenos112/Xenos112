@@ -30,20 +30,7 @@
 </p>
 
 ---
----
 
-<p align="center">
-  <a href="https://github.com/Xenos112">
-    <img src="https://github-readme-stats.vercel.app/api?username=Xenos112&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%" />
-  </a>
-  <a href="https://github.com/Xenos112">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xenos112&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="49%" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenos112&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" width="45%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xenos112&theme=github-compact&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=58A6FF&area=true&area_color=3B82F6" width="95%" />
