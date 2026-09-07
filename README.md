@@ -2,15 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,3&height=250&section=header&text=Xenos&fontSize=80&fontAlignY=30&animation=twinkling&fontColor=fff" />
 </div>
 
-<p align="center">
-  <a href="https://ahmed-bet-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="https://github.com/Xenos112">
-    <img src="https://img.shields.io/badge/GitHub-1B1F23?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-  </a>
-</p>
-
 <br/>
 
 <p align="center">
